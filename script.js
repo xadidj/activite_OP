@@ -3,4 +3,4 @@ var x=3;
 var y=5;
 var z=75;
 
-alert("vérifiez que z = 3x * y");
+alert("Calculer:" 3x * y);
