@@ -1,3 +1,3 @@
 # activite_OP
-activitÃ© Ã  rÃ©aliser pour OpenClassroom
+activite git & gitub a realiser pour OpenClassroom - partie 2 -
 Premiere ligne écrite en local
